@@ -47,8 +47,3 @@ This project aims to develop a predictive model for breast cancer diagnosis usin
 **Underperformers:**
 - **MLP (Neural Network):** Low accuracy due to possible lack of tuning or data suitability.
 - **SVC (Support Vector Machine):** Low accuracy, potentially due to insufficient hyperparameter optimization.
-
-## Getting Started
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/cosmasnwaeze/breast-cancer-prediction.git
